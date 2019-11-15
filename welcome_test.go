@@ -1,4 +1,4 @@
-package welcome
+package saywelcome
 
 import "testing"
 
